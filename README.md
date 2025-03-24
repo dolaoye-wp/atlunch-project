@@ -7,9 +7,9 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-# 🍽️ Lunchspot Finder
+# 🍽️ AtLunch 
 
-**Lunchspot Finder** is a modern, responsive web app built with React and the Google Maps JavaScript API. It helps teams quickly discover nearby restaurants — visualized on a map with interactive pins and a browsable card list.
+**AtLunch** is built with React and the Google Maps JavaScript API. It helps teams quickly discover nearby restaurants — visualized on a map with interactive pins and a browsable card list.
 
 ## Tech Stack
 
