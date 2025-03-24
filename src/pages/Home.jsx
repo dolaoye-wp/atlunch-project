@@ -1,4 +1,4 @@
-import { useState, useRef, useEffect } from "react";
+import React, { useState, useRef, useEffect } from "react";
 import MapView from "../components/map/MapView";
 import RestaurantList from "../components/restaurant/RestaurantList";
 import FloatingToggleButton from "../components/FloatingToggleButton";

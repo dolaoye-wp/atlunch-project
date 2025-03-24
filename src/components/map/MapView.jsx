@@ -45,7 +45,7 @@ const MapView = forwardRef(
 
       const initMap = async () => {
         const loader = new Loader({
-          apiKey: "AIzaSyAvAaPcSL1SNPUguENa_p2P-SuRaxGUduw", // Replace with your API key
+          VITE_GOOGLE_MAPS_API_KEY,
           version: "weekly",
           libraries: ["places"],
         });

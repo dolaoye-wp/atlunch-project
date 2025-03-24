@@ -1,3 +1,4 @@
+import React from "react";
 import searchIcon from "../../assets/searchicon.svg";
 
 const SearchBar = ({ value, onChange, onSearch }) => {
