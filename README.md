@@ -54,3 +54,8 @@ Create a .env file in the root and add:
 ```bash
 npm run test 
 ```
+
+### 4. Future Developments
+- Add more test cases
+- Add bookmarking feature 
+
