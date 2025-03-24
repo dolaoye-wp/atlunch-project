@@ -43,7 +43,7 @@ function Home() {
     });
   };
 
-  // ✅ Geolocation logic on mount
+  // Geolocation logic on mount
   useEffect(() => {
     if ("geolocation" in navigator) {
       navigator.geolocation.getCurrentPosition(
