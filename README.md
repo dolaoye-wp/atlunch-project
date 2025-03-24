@@ -47,7 +47,11 @@ Make sure your API key has access to:
 - Maps JavaScript API
 - Places API
 
-### 4. Run tests
+### 4. Make a search
+Type in a cuisine or a specific restaurant you are looking for in the search bar and hit 'Enter'. The results will appear on the sidebar and on the map.
+Please be sure to enable location for the site. 
+
+### 5. Run tests
 
 Create a .env file in the root and add:
 
@@ -55,7 +59,7 @@ Create a .env file in the root and add:
 npm run test 
 ```
 
-### 4. Future Developments
+### 6. Future Developments
 - Add more test cases
 - Add bookmarking feature 
 
