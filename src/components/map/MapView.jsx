@@ -16,7 +16,7 @@ const MapView = forwardRef(
     const mapRef = useRef(null);
     const mapInstance = useRef(null);
 
-    // ✅ Pan with vertical offset
+    // Pan with vertical offset
     const panToWithOffset = (latLng, yOffset = 150) => {
       const map = mapInstance.current;
       if (!map) return;
