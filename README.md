@@ -44,6 +44,13 @@ VITE_GOOGLE_MAPS_API_KEY=your_api_key_here
 ```
 
 Make sure your API key has access to:
-Maps JavaScript API
+- Maps JavaScript API
+- Places API
 
-Places API
+### 4. Run tests
+
+Create a .env file in the root and add:
+
+```bash
+npm run test 
+```
